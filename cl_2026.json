@@ -1,0 +1,98 @@
+{
+  "2026-01-01": {
+    "name": "Año Nuevo",
+    "tipo": "Civil",
+    "inalienable": true,
+    "extra": "Civil e Irrenunciable"
+  },
+  "2026-04-03": {
+    "name": "Viernes Santo",
+    "tipo": "Civil",
+    "inalienable": false,
+    "extra": "Civil"
+  },
+  "2026-04-04": {
+    "name": "Sábado Santo",
+    "tipo": "Civil",
+    "inalienable": false,
+    "extra": "Civil"
+  },
+  "2026-05-01": {
+    "name": "Día Nacional del Trabajo",
+    "tipo": "Civil",
+    "inalienable": true,
+    "extra": "Civil e Irrenunciable"
+  },
+  "2026-05-21": {
+    "name": "Día de las Glorias Navales",
+    "tipo": "Civil",
+    "inalienable": false,
+    "extra": "Civil"
+  },
+  "2026-06-21": {
+    "name": "Día Nacional de los Pueblos Indígenas",
+    "tipo": "Civil",
+    "inalienable": false,
+    "extra": "Civil"
+  },
+  "2026-06-29": {
+    "name": "San Pedro y San Pablo",
+    "tipo": "Civil",
+    "inalienable": false,
+    "extra": "Civil"
+  },
+  "2026-07-16": {
+    "name": "Día de la Virgen del Carmen",
+    "tipo": "Civil",
+    "inalienable": false,
+    "extra": "Civil"
+  },
+  "2026-08-15": {
+    "name": "Asunción de la Virgen",
+    "tipo": "Civil",
+    "inalienable": false,
+    "extra": "Civil"
+  },
+  "2026-09-18": {
+    "name": "Independencia Nacional",
+    "tipo": "Civil",
+    "inalienable": true,
+    "extra": "Civil e Irrenunciable"
+  },
+  "2026-09-19": {
+    "name": "Día de las Glorias del Ejército",
+    "tipo": "Civil",
+    "inalienable": true,
+    "extra": "Civil e Irrenunciable"
+  },
+  "2026-10-12": {
+    "name": "Encuentro de Dos Mundos",
+    "tipo": "Civil",
+    "inalienable": false,
+    "extra": "Civil"
+  },
+  "2026-10-31": {
+    "name": "Día de las Iglesias Evangélicas y Protestantes",
+    "tipo": "Civil",
+    "inalienable": false,
+    "extra": "Civil"
+  },
+  "2026-11-01": {
+    "name": "Día de Todos los Santos",
+    "tipo": "Civil",
+    "inalienable": false,
+    "extra": "Civil"
+  },
+  "2026-12-08": {
+    "name": "Inmaculada Concepción",
+    "tipo": "Civil",
+    "inalienable": false,
+    "extra": "Civil"
+  },
+  "2026-12-25": {
+    "name": "Navidad",
+    "tipo": "Civil",
+    "inalienable": true,
+    "extra": "Civil e Irrenunciable"
+  }
+}
